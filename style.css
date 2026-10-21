@@ -205,6 +205,17 @@ a {
     margin-bottom: 0;
 }
 
+.reflection-image {
+    display: block;
+    width: 85%;
+    height: auto;
+    max-height: 220px;
+    object-fit: contain;
+    margin: 12px 0;
+    background-color: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+}
+
 /* 7. Contact and footer */
 .contact {
     background-color: #fcbc8a;
